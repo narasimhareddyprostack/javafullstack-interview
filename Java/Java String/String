@@ -1,0 +1,48 @@
+What is String in Java? Is String a data type?
+Is String a Primitive or a Derived Type?
+Is String a keyword in Java?
+What are different ways to create String Objects?
+How Is a String Stored in Memory?
+How Can We Get a Character Array from String?
+How many objects will be created in the following code and where they will be stored in the memory?
+String s1 = "abc";
+String s2 = "abc";
+How Can We Check If a String Is a Palindrome or Not?
+Write a method that will remove a given character from the String?
+How can we make String uppercase or lowercase?
+What is the String subSequence method?
+What Are the Benefits of Strings Being Immutable?
+Difference Between String, Stringbuffer and Stringbuilder?
+How to compare two Strings in a Java program?
+How Can We Convert a String to Uppercase and Lowercase?
+How to convert String to char and vice versa?
+How to convert String to byte array and vice versa?
+Can we use String in the switch case?
+How Can We Compare Two Strings in Java? What’s the Difference Between str1 == str2 and str1.equals(str2)?
+Write a program to print all permutations of String?
+Write a function to find out the longest palindrome in a given string?
+Difference between String, StringBuffer and StringBuilder?
+Why String is immutable or final in Java
+How to Split String in java?
+WAP to reverse a String in Java?
+Why is Char array preferred over String for storing password?
+How do you check if two Strings are equal in Java?
+What is String Pool/String Constant Pool?
+Where exactly is the string constant pool located in the memory?
+Are Interned Strings Eligible for Garbage Collection in Java?
+What does the String intern() method do?
+What Is String.format() and How Can We Use It?
+Is String thread-safe in Java?
+How Can We Convert String to Integer and Integer to String in Java?
+Why is String a popular HashMap key in Java?
+How Can We Split a String in Java?
+How Can We Reverse a String in Java?
+Is String Thread-Safe? How?
+What Is Stringjoiner?
+How to find the maximum occurring character in a string in Java?
+How do you remove all white spaces from a string in Java?
+How do you find duplicate characters in a string?
+How Can We Count the Number of Occurrences of a Given Character in a String?
+Why Is It Safer to Store Passwords in a Char[] Array Rather Than a String?
+How to reverse a sentence word by word in Java?
+ What is the difference between Java 8 String Joiner, String.join() and Collectors.joining()?
